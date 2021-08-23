@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="southindianImages">
+        <item>https://i.imgur.com/p5XAuhgb.jpg</item>
+        <item>https://i.imgur.com/LvdFr0Tb.jpg</item>
+        <item>https://i.imgur.com/kM6SVqJb.jpg</item>
+        <item>https://i.imgur.com/LreJS3Fb.jpg</item>
+        <item>https://i.imgur.com/7ZijzzUb.jpg</item>
+        <item>https://i.imgur.com/V0IfhHvb.jpg</item>
+    </string-array>
+
+</resources>

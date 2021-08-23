@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dessertImages">
+        <item>https://i.imgur.com/uDAQqqxb.jpg</item>
+        <item>https://i.imgur.com/rY12Zgpb.jpg</item>
+        <item>https://i.imgur.com/vXIl1oGb.jpg</item>
+        <item>https://i.imgur.com/Bj1mnW4.jpeg</item>
+        <item>https://i.imgur.com/TQVvS8db.jpg</item>
+        <item>https://i.imgur.com/W53QZnDb.jpg</item>
+
+    </string-array>
+</resources>

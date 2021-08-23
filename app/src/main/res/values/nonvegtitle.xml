@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nonvegtitles">
+        <item>Chicken Lollipop</item>
+        <item>Chicken Kebab</item>
+        <item>Fish Fry</item>
+        <item>Mutton Gravy</item>
+        <item>Roasted Turkey</item>
+        <item>Chicken Manchurian</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="northindianImages">
+        <item>https://i.imgur.com/8dhVvIP.jpeg</item>
+        <item>https://i.imgur.com/sH33ZHOb.jpg</item>
+        <item>https://i.imgur.com/Z5GyK7hb.jpg</item>
+        <item>https://i.imgur.com/d2TN4A7b.jpg</item>
+        <item>https://i.imgur.com/1txYjFsb.jpg</item>
+        <item>https://i.imgur.com/IyJpQcVb.jpg</item>
+
+    </string-array>
+</resources>

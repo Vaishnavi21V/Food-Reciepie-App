@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="southtitles">
+        <item>Masala Uttapam</item>
+        <item>Mango Rice</item>
+        <item>Pongal</item>
+        <item>Puliyogare</item>
+        <item>Upma</item>
+        <item>Vada</item>
+    </string-array>
+</resources>

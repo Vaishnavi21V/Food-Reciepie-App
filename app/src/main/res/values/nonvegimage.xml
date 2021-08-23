@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nonvegImages">
+        <item>https://i.imgur.com/srWgyGsb.jpg</item>
+        <item>https://i.imgur.com/sR5VX4Jb.jpg</item>
+        <item>https://i.imgur.com/UlbPnaRb.jpg</item>
+        <item>https://i.imgur.com/Dcw0tlVb.jpg</item>
+        <item>https://i.imgur.com/uQksQVPb.jpg</item>
+        <item>https://i.imgur.com/IxJIZZ9b.jpg</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="northtitles">
+        <item>Paneer Butter Masala</item>
+        <item>Malai Kofta</item>
+        <item>Veg Biriyani</item>
+        <item>Momos</item>
+        <item>Gajar Ka Halwa</item>
+        <item>Aloo Paratha</item>
+    </string-array>
+</resources>

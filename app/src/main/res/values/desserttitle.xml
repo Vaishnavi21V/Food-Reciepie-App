@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="desserttitles">
+        <item>Gulab Jamun</item>
+        <item>Mango Lassi</item>
+        <item>Kulfi</item>
+        <item> Chocolate Mousse</item>
+        <item>Blackberry Mousse</item>
+        <item>Chocolate Brownie</item>
+    </string-array>
+</resources>
